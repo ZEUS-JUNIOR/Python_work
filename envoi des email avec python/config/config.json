@@ -1,0 +1,11 @@
+{
+  "HOST": "smtp.gmail.com",
+  "PORT": "587",
+  "RECIPIENT_EMAIL_ADDRESS": "bethaalpha366@gmail.com",
+  "SENDER_EMAIL_ADDRESS": "juniorzelefack@gmail.com",
+  "PASSWORD": "000015041997",
+  "SUBJECT": "Image attachée",
+  "MESSAGE": "Salut, vous avez été visité par un inconu "
+
+}
+
